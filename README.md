@@ -1,0 +1,1 @@
+# parking_spot_detector_-_counter_using_opencv_-_scikit-learn
