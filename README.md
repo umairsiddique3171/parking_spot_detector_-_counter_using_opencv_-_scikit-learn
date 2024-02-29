@@ -1,4 +1,4 @@
-# parking_spot_detector_-_counter_using_opencv_-_scikit-learn
+# parking_spot_detector_and_counter_using_opencv_and_scikit-learn
 This project is aimed at developing a parking spot detection system using computer vision techniques. It can analyze video footage from a parking lot and determine the availability of parking spots in real-time.
 
 ## Table of Contents
