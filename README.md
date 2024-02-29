@@ -46,5 +46,7 @@ The system will process the video frames and display real-time visualizations of
 
 The system outputs a video file (results.mp4) where each frame indicates the status of parking spots. Occupied spots are marked in green rectangles, while empty spots are marked in red. Additionally, the total number of available spots is displayed in the corner of the video frame.
 
+https://github.com/umairsiddique3171/parking_spot_detector_and_counter_using_opencv_and_scikit-learn/assets/148565997/5eb2de84-c002-494c-a202-6114229a0dcf
+
 ## License
 [MIT License](https://github.com/umairsiddique3171/parking_spot_detector_and_counter_using_opencv_and_scikit-learn/blob/main/LICENSE)
