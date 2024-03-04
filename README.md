@@ -50,3 +50,6 @@ https://github.com/umairsiddique3171/parking_spot_detector_and_counter_using_ope
 
 ## License
 [MIT License](https://github.com/umairsiddique3171/parking_spot_detector_and_counter_using_opencv_and_scikit-learn/blob/main/LICENSE)
+
+## Author
+[@umairsiddique3171](https://github.com/umairsiddique3171)
